@@ -11,22 +11,18 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        if(head==NULL || head->next == NULL){
+        if(head==NULL || head->next==NULL){
             return;
         }
-        //middle of ll
-        // ListNode* temp = new ListNode();
-        // temp->next = head;
         ListNode* fast = head;
         ListNode* slow = head;
         while(fast->next!=NULL && fast->next->next!=NULL){
-            fast = fast->next->next;
             slow = slow->next;
+            fast = fast->next->next;
         }
-        //reverse a ll
+        ListNode* prev = NULL;
         ListNode* curr = slow->next;
         slow->next = NULL;//cut the list
-        ListNode* prev = NULL;
         ListNode* next = NULL;
         while(curr!=NULL){
             next = curr->next;
@@ -34,7 +30,6 @@ public:
             prev = curr;
             curr = next;
         }
-        // merge ll
         ListNode* t1 = head;
         ListNode* t2 = prev;
         while(t1!=NULL && t2!=NULL){
@@ -42,8 +37,8 @@ public:
             ListNode* m2 = t2->next;
             t1->next = t2;
             t2->next = m1;
-            t1 = m1;
             t2 = m2;
+            t1 = m1;
         }
     }
 };
