@@ -21,6 +21,7 @@ public:
                 tail->next = list2;
                 list2 = list2->next;
             }
+            // for updating tail value
             tail = tail->next;
         }
         //for inserting extra element in temp
