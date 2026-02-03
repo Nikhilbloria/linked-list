@@ -23,6 +23,7 @@ public:
             }
             tail = tail->next;
         }
+        //for inserting extra element in temp
         if(list1 != NULL){
         tail->next = list1;
         }else{
