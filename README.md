@@ -21,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/linked-list/tree/master/0011-container-with-most-water) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nikhilbloria/linked-list/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3637-trionic-array-i](https://github.com/Nikhilbloria/linked-list/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
