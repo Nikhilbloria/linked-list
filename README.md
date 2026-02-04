@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhilbloria/linked-list/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nikhilbloria/linked-list/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nikhilbloria/linked-list/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/Nikhilbloria/linked-list/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Nikhilbloria/linked-list/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nikhilbloria/linked-list/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhilbloria/linked-list/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/linked-list/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhilbloria/linked-list/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Nikhilbloria/linked-list/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Nikhilbloria/linked-list/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhilbloria/linked-list/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -30,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Nikhilbloria/linked-list/tree/master/0141-linked-list-cycle) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nikhilbloria/linked-list/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sliding Window
 |  |
