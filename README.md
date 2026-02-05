@@ -27,6 +27,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nikhilbloria/linked-list/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Nikhilbloria/linked-list/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nikhilbloria/linked-list/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/Nikhilbloria/linked-list/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Nikhilbloria/linked-list/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Nikhilbloria/linked-list/tree/master/3640-trionic-array-ii) |
 ## Hash Table
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nikhilbloria/linked-list/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/Nikhilbloria/linked-list/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
