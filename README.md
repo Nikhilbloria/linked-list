@@ -17,6 +17,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/linked-list/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhilbloria/linked-list/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilbloria/linked-list/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Nikhilbloria/linked-list/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Nikhilbloria/linked-list/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhilbloria/linked-list/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/linked-list/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilbloria/linked-list/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0565-array-nesting](https://github.com/Nikhilbloria/linked-list/tree/master/0565-array-nesting) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nikhilbloria/linked-list/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Nikhilbloria/linked-list/tree/master/2977-minimum-cost-to-convert-string-ii) |
