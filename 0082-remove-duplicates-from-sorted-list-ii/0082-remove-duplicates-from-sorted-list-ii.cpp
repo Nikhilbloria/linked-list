@@ -21,10 +21,13 @@ public:
                 while(curr->next!=NULL&& curr->val==curr->next->val){
                     curr = curr->next;
                 }
+                // asign prev next value to curr next
                 prev->next = curr->next;
             }else{
-                prev= prev->next;
+                //increment pointers
+                prev = prev->next;
             }
+            //it will increment in both cases
             curr = curr->next;
         }
         return temp->next;
