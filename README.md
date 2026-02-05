@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhilbloria/linked-list/tree/master/0011-container-with-most-water) |
+| [0565-array-nesting](https://github.com/Nikhilbloria/linked-list/tree/master/0565-array-nesting) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nikhilbloria/linked-list/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Nikhilbloria/linked-list/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nikhilbloria/linked-list/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/Nikhilbloria/linked-list/tree/master/3379-transformed-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/Nikhilbloria/linked-list/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
